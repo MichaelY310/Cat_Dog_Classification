@@ -6,4 +6,4 @@ Put your dataset (pictures only, named "cat001" or "dog001") in the "train" dire
 to train and save your model. 
 
 # classification
-Edit demo.py and select a model and a picture.
+Edit demo.py and select a model (CNNmodel01.pth or Resnetmodel01.pth) and a picture.
